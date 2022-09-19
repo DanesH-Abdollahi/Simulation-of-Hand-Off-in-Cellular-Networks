@@ -2,7 +2,7 @@
 In this project we study different algorithms used in handoff decision making in a micro-cellular network. The scenario is depicted in Figure-1, BS 1-4 are four base stations in a cellular network. MH represents a mobile host, which is in the coverage area of BS1 and communicating through BS1. The MH starts moving away from BS1 towards BS2. As the MH moves away the received signal strength (RSS) from BS1 decreases and the RSS from BS2-4 increases. At certain points received power from BS-1 becomes weak and MH starts to search for another BS which can provide a stronger signal and selects that base station as its point of connection. In an ideal system we would expect to develop an algorithm that can make the handoff decision only once and preferably in the middle of the path between BS1 and BS2. We are going to study four algorithms in that respect.
 
 
-![Figure-1](/figure/fig.png)
+![](/figures/fig.png)
 
 
 ---
